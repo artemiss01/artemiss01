@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi
 I am a Front-End developer specializing in the layout of customized <br>web pages, I adhere to modern principles of web development  using <br>the scss preprocessor, BEM methodology, Pixel Perfect.
 
 
